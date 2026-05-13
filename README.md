@@ -1,5 +1,5 @@
 # 💫 About Me:
-Engineering student trying to find realworld problems and solving them. i have a hunger to try everything, sometimes it backfires with too much work, but its worth it. Always available to help you. and a constant learner. pls email me if you want a contributor to your project.
+Engineering student trying to find realworld problems and solving them. I have a hunger to try everything, sometimes it backfires with too much work, but it’s worth it. Always available to help you and a constant learner. Please email me if you want a contributor to your project.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avadhoot-gandhe-6a13b82b2)
